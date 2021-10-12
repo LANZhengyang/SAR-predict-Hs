@@ -13,7 +13,9 @@ Code of internship: Deep learning inversion of sea surface processes from SAR im
 # Performance of proposed model
 
 - Plot_MSE&STD:
-![Plot MSE&STD](https://github.com/LANZhengyang/SAR-predict-Hs/blob/main/Image/Plot_MSE%26STD.png)
+
+![Plot MSE&STD](https://github.com/LANZhengyang/SAR-predict-Hs/blob/main/Image/Plot_MSE%26STD.png| width=200)
 
 - Scatter plots of predictions versus measurements:
-![Scatter plots of predictions versus measurements](https://github.com/LANZhengyang/SAR-predict-Hs/blob/main/Image/Scatter_plots_of_predictions_versus_measurements.png)
+
+![Scatter plots of predictions versus measurements](https://github.com/LANZhengyang/SAR-predict-Hs/blob/main/Image/Scatter_plots_of_predictions_versus_measurements.png | width=100)
